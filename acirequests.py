@@ -9,7 +9,7 @@ payload = {
     "aaaUser": {
         "attributes": {
             "name": "admin",
-            "pwd": "!v3G@!4@Y"
+            "pwd": #(your_password_goes_here)
         }
     }
 }
